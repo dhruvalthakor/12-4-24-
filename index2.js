@@ -100,8 +100,7 @@
 // let weight=+prompt("enter your weight")
 // let height=+prompt("enter your height in minter")
 
-// let weight=95;
-// let height=1.88;
+
 
 // let bmi=weight/(height*height);
 
